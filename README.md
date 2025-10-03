@@ -1,5 +1,5 @@
 # :seedling: **Bio**
-## PhD Candidate in Economics (UBC) 
+<span style="font-size:20px;"> PhD Candidate in Economics (UBC) </b></span><br>
 ### Political + Environmental + Development 
 
 # :globe_with_meridians: **Website**
