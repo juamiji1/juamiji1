@@ -1,5 +1,5 @@
-# Bio
-I am a PhD Candidate in Economics at the Vancouver School of Economics (University of British Columbia). Interested in political and environmental economics.
+# :seedling: Bio
+PhD Candidate in Economics (UBC) | Political - Environmental - Development 
 
-# Website
+# :globe_with_meridians: Website
 https://juamiji1.github.io/My-webpage/
